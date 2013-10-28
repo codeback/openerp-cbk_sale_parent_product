@@ -24,8 +24,6 @@
 from osv import fields, osv
 from datetime import datetime, timedelta  
 
-import pdb
-
 class sale_order_line(osv.osv):
 
     _name = "sale.order.line"
