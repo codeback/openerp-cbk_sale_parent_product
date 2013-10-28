@@ -29,7 +29,7 @@
     'description' : 'Change the price unit of a product with its parent one',
     'website': 'http://codeback.es',
     'images': [],    
-    'depends': ['sale', 'cbk_related_products'],
+    'depends': ['sale_margin', 'cbk_related_products'],
     'category': 'Sales',
     'sequence': 23,
     'demo': [],
